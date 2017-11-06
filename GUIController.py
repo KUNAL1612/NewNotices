@@ -1,6 +1,8 @@
 from tkinter import *
 
 # this function takes a input text,creates an independent frame and displays the text on desktop
+
+
 def display(txt="this is a dummy text"):
     root = Tk()
 
