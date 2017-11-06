@@ -1,5 +1,7 @@
 # NewNotices
-Python script to send toast notifications in Win10 from KGEC website
+This was originally a "Python script to send toast notifications in Win10 from KGEC website"
+But has been modified to display the notification in a GUI window, so as to remove the W10 toast dependency
 
-Python script that uses https://github.com/jithurjacob (Jithu R Jacob)'s Windows 10 toast notifications python module to check for
-new notices posted on my college website(kgec.edu.in/notice/Administrative/), and send a notification if any unseen notices have been uploaded
+The site it tracks for new notifications is (kgec.edu.in/notice/Administrative/)
+
+The main project is developed by Kunal Chakrabarty and can be found at (https://github.com/KUNAL1612/NewNotices)
