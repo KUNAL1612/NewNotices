@@ -4,4 +4,4 @@ But has been modified to display the notification in a GUI window, so as to remo
 
 The site it tracks for new notifications is (kgec.edu.in/notice/Administrative/)
 
-The main project is developed by Kunal Chakrabarty and can be found at (https://github.com/KUNAL1612/NewNotices)
+
